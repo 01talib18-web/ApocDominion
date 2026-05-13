@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Scavenger",
+    "unitType": "Civilian",
+    "cost": 30,
+    "movement": 2
+  },
+  {
+    "name": "Raider",
+    "unitType": "Melee",
+    "cost": 40,
+    "strength": 18,
+    "movement": 2,
+    "uniques": ["+50% pillage reward"]
+  },
+  {
+    "name": "Enforcer",
+    "unitType": "Melee",
+    "cost": 60,
+    "strength": 28,
+    "movement": 2
+  },
+  {
+    "name": "Slave Laborer",
+    "unitType": "Civilian",
+    "cost": 25,
+    "movement": 1,
+    "uniques": ["+100% Production when working tiles"]
+  }
+]

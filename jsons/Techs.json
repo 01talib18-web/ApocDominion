@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Scavenging",
+    "cost": 60
+  },
+  {
+    "name": "Raiding Tactics",
+    "cost": 120,
+    "uniques": ["+25% pillage reward for all units"]
+  }
+]

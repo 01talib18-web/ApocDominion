@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Tyranny Doctrine",
+    "uniques": ["+15% Production toward military units"],
+    "requiredPolicies": ["Oligarchy"]
+  }
+]

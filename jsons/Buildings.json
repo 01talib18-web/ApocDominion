@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Slave Pen",
+    "cost": 80,
+    "maintenance": 1,
+    "uniques": ["+2 Production from every 2 citizens"]
+  },
+  {
+    "name": "Breeding Facility",
+    "cost": 120,
+    "maintenance": 2,
+    "uniques": ["+30% Growth"]
+  },
+  {
+    "name": "Raider Camp",
+    "cost": 60,
+    "maintenance": 1,
+    "uniques": ["+15% Production toward military units"]
+  }
+]
